@@ -1,0 +1,11 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DecisionTree = "7806a523-6efd-50cb-b5f6-3fa6f1930dbb"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+MLJ = "add582a8-e3ab-11e8-2d5e-e98b27df1bc7"
+Merly = "5b70daea-9db9-5a46-aedf-2142e553ecc5"
+
+[compat]
+DecisionTree = "= 0.10.1"
+MLJ = "= 0.11.2"
