@@ -280,7 +280,7 @@ version = "0.12.1"
 
 [[Merly]]
 deps = ["HTTP", "JSON", "Sockets"]
-git-tree-sha1 = "fce9a266425f86674dce855c6f0c444b32bb5269"
+git-tree-sha1 = "0c6fbe453dc606836f2ff60c1a2f5648ea46668f"
 repo-rev = "master"
 repo-url = "https://github.com/phelipe/Merly.jl"
 uuid = "5b70daea-9db9-5a46-aedf-2142e553ecc5"
