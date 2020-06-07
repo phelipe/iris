@@ -5,8 +5,8 @@ using DecisionTree
 using HTTP
 using JSON
 
-server = App("0.0.0.0", parse(Int,ARGS[1])) 
-#server = App("127.0.0.1", 8086) 
+#server = App("0.0.0.0", parse(Int,ARGS[1])) 
+server = App("127.0.0.1", 8086) 
 
 useCORS(true)
 webserverpath(server, "public")
